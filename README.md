@@ -1,8 +1,12 @@
 # :computer: VS Code Configurations
 
-Repo to join my personal Visual Studio Code configuration, such as ESLint, Prettier, TypeScript.
+Repo to join my personal Visual Studio Code configuration, such as ESLint, Prettier, TypeScript, etc.
+
+Also to put together the commons scripts and devDependencies of ***package.json*** files.
 
 # React Configs
+
+
 
 # Node Configs (with Typescript)
 
