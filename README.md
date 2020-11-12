@@ -30,5 +30,5 @@ Repo to join my personal Visual Studio Code configuration, such as ESLint, Prett
     "eslint-plugin-import": "^2.21.2",
     "ts-node-dev": "^1.0.0",
     "typescript": "^4.0.5"
-  }
+  },
 ```
