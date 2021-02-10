@@ -2,11 +2,9 @@
 
 Repo to join my personal Visual Studio Code configuration, such as ESLint, Prettier, TypeScript, etc.
 
-Also to put together the commons scripts and devDependencies of ***package.json*** files.
+Also to put together the commons scripts and devDependencies of **_package.json_** files.
 
 # React Configs
-
-
 
 # Node Configs (with Typescript)
 
